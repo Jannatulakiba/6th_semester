@@ -1,0 +1,10 @@
+PORT=5000
+MONGODB_URI=mongodb+srv://mrahman7148_db_user:cAxngCa6cdq0tLqv@cloth-delivery.tsmrxaq.mongodb.net/cloth-delivery
+CLOUDINARY_API_KEY=397717883457425
+CLOUDINARY_API_SECRET=jguricwqhb0RoA_Qxi_7DaRVcyE
+CLOUDINARY_CLOUD_NAME=dhmhjmop0
+JWT_SECRET=cloth-delivery
+ADMIN_EMAIL=admin@ad.com
+ADMIN_PASSWORD=admin123
+STRIPE_SECRET_KEY=sk_test_51RizFxQMpoIZ70fGV3u3w3m2k1GfoNMTFwRFQSFRd5f5fFhrbAgutYUAWd8mv6f9YmKZKqAbNByWf1UN93YCOvmX00Bqjga8tl
+ADMIN_SECRET_KEY=cloth-delivery-admin-secret-2026
